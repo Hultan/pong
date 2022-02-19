@@ -14,3 +14,4 @@ A simple GTK version of the game pong written in Go.
 
 * BUG : The code currently does not detect key presses correctly
 * TODO : No winning score is set
+* TODO : Change ball speed depending on angle
